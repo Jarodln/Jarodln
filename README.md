@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Jarodln
+- 👀 I’m interested in SQL Server and C#
+- 🌱 I’m currently learning .NET Framework
+- 💞️ I’m looking to collaborate on Data Base
+- 📫 How to reach me: jarodln0299@gmail.com
+- 
+- *******I am looking Job in software developer******
